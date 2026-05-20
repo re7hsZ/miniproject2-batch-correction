@@ -2,7 +2,7 @@
 
 CMML3 Miniproject 2 — code repository for reproducing the benchmark.
 
-**Repository:** https://github.com/re7hsZ/3138_miniproject2_batch-correction
+**Repository:** https://github.com/re7hsZ/miniproject2-batch-correction
 
 The pipeline benchmarks **five** widely used batch-effect correction tools on the
 **scIB human pancreas integration benchmark** (Luecken et al., 2022, *Nature Methods*):
